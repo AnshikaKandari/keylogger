@@ -24,5 +24,5 @@ It scans all running processes and highlights those containing suspicious keywor
 
 ## 📸 Screenshots
 (Add your screenshots here)
-![Screenshot](./screenshot(44).png)
+![Screenshot](./screenshot1.png)
 
