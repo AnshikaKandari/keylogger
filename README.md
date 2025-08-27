@@ -23,6 +23,6 @@ It scans all running processes and highlights those containing suspicious keywor
 ---
 
 ## 📸 Screenshots
-(Add your screenshots here)
+Example
 ![Screenshot](./screenshot.png)
 
