@@ -25,4 +25,4 @@ It scans all running processes and highlights those containing suspicious keywor
 ## 📸 Screenshots
 Example
 ![Screenshot](./screenshot.png)
-
+![](./s2.png)
